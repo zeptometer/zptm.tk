@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RETROKITCHEN</title>
+    <link>http://zptm.tk/</link>
+    <description>Recent content on RETROKITCHEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 15 May 2015 19:33:59 +0900</lastBuildDate>
+    <atom:link href="http://zptm.tk/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>THIS IS FIRST POST</title>
+      <link>http://zptm.tk/post/first/</link>
+      <pubDate>Fri, 15 May 2015 19:33:59 +0900</pubDate>
+      
+      <guid>http://zptm.tk/post/first/</guid>
+      <description>&lt;p&gt;Hello, RETROKITCHEN.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://zptm.tk/about/</link>
+      <pubDate>Fri, 15 May 2015 19:32:11 +0900</pubDate>
+      
+      <guid>http://zptm.tk/about/</guid>
+      <description>&lt;p&gt;都内の大学で情報科学を学ぶ人。たまに山に登る。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/zptmtr&#34;&gt;twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/zeptometer&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://zeptometer.tumblr.com&#34;&gt;tumblr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

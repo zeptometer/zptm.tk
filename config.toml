@@ -1,0 +1,6 @@
+baseurl = "http://zptm.tk/"
+languageCode = "ja-jp"
+title = "RETROKITCHEN"
+
+[params]
+author = "zeptometer"
